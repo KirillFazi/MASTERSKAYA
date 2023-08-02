@@ -1,5 +1,4 @@
 
-Онлайн приложение доступно по адресу: https://english-films-level.streamlit.app/
 
 **Проект**:
 
